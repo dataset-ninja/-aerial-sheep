@@ -37,7 +37,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = "https://universe.roboflow.com/riis/aerial-sheep"
-ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "RIIS"
+ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "RIIS, USA"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://riis.com/blog/counting-sheep-using-drones-and-ai/"
 TAGS: List[str] = None
 
